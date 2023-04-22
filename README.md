@@ -2,7 +2,7 @@
 This repository contains materials for the Programming with Data course.
 
 ## Python Data Structures
-The Python-Data-Structures directory contains the following topics:
+The  [Python-Data-Structures]([https://link-url-here.org](https://github.com/joslangarica/programmingWithDataResources/blob/main/dataStructures.md)) directory contains the following topics:
 
 - Lists
 - Tuples
